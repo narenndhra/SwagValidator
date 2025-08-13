@@ -127,6 +127,8 @@ Developed with inspiration from existing API testing workflows in Burp Suite and
 
 ---
 
-## 📜 License
+## 👤 Author
 
-MIT License – free for personal and commercial use.
+**Narendra Reddy (Entersoft Security)**
+
+Contributions & feedback welcome.

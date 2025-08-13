@@ -1,0 +1,6 @@
+# SwagValidator runs inside Burp Suite using Jython 2.7.
+# There are no pip-installable dependencies.
+# Keep this file for tooling that expects a requirements.txt.
+
+# runtime (documentation only):
+# jython==2.7.*

@@ -121,14 +121,6 @@ _No pip packages required._
 
 ---
 
-## 🙌 Credits
-
-Developed with inspiration from existing API testing workflows in Burp Suite and tailored to improve **speed**, **coverage**, and **usability** for security testers and QA teams.
-
----
-
 ## 👤 Author
 
 **Narendra Reddy (Entersoft Security)**
-
-Contributions & feedback welcome.
